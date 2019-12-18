@@ -775,3 +775,9 @@ B、socket连接： 建立Socket连接至少需要一对套接字，其中一个
 总结归纳：信号量不一定锁定某个资源，而是流程上的概念，举个栗子 有AB两个线程，B要等A完成某一任务以后才可以进行自己的任务。而互斥原则是“锁住某一资源”，在锁定期间，其他线程是无法对该资源进行访问的。
 
 ================================================================
+
+博客文章列表：1.https://blog.51cto.com/shahdza/p2 2.[https://icocos.github.io/2018/10/22/cocos2dx-lua-cc-ccs-ccui%E5%8C%BA%E5%88%AB%E5%92%8C%E4%BD%BF%E7%94%A8/](https://icocos.github.io/2018/10/22/cocos2dx-lua-cc-ccs-ccui区别和使用/)3.http://www.itjiaocheng.com/mianfei/（it教程网）4.智捷课堂 http://www.zhijieketang.com/course/explore?fliter=free&orderBy=studentNum
+
+================================================================
+
+youtube排名第一的励志英文演讲：https://mp.weixin.qq.com/s/O_D_FVRIIII1wqq4jGZqHA
