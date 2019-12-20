@@ -88,8 +88,12 @@
     <Compile Include="Assets\Scripts\Test\EmailLayerClick.cs" />
     <Compile Include="Assets\Scripts\Test\HallLayer.cs" />
     <Compile Include="Assets\Scripts\Test\HallLayerClick.cs" />
-    <Compile Include="Assets\Scripts\Test\LoginClick.cs" />
     <Compile Include="Assets\Scripts\Test\LoginLayer.cs" />
+    <Compile Include="Assets\Scripts\Test\LoginLayerClick.cs" />
+    <Compile Include="Assets\Scripts\Test\RegistLayer.cs" />
+    <Compile Include="Assets\Scripts\Test\RegistLayerClick.cs" />
+    <Compile Include="Assets\Scripts\Test\StartLayer.cs" />
+    <Compile Include="Assets\Scripts\Test\StartLayerClick.cs" />
     <None Include="Assets\DOTween\DOTween\readme.txt" />
     <None Include="Assets\doc\Lua使用规则.txt" />
     <Reference Include="Unity.TextMeshPro.Editor">
