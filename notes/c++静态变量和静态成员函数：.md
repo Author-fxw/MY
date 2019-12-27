@@ -787,3 +787,11 @@ youtube排名第一的励志英文演讲：https://mp.weixin.qq.com/s/O_D_FVRIII
 比如2019，2019-3=2016，2016/10余数为6，天干当中排在第六位的是己，2019-3=2016，2016/12余数为0，余数为0 在地支中倒数第一个就是亥。所以2019年是己亥年。
 
 新浪博客博主（学习资料unity）：http://blog.sina.com.cn/s/blog_1322690230102xycl.html
+
+游戏蛮牛：http://subject.manew.com/source/
+
+雨松momo：https://www.xuanyusong.com/archives/4607
+
+CG自学网：https://www.cgzixue.cn/forum.php?mod=forumdisplay&fid=80&filter=typeid&typeid=363
+
+unity3d设计模式的案例分析：https://github.com/QianMo/Unity-Design-Pattern.git
